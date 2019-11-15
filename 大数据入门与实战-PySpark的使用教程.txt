@@ -4,6 +4,8 @@
 来源：简书
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ==============================================================
+安装：pip install pyspark -i https://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+
 
 以下代码块包含PySpark类的详细信息以及SparkContext可以采用的参数。
 class pyspark.SparkContext (
